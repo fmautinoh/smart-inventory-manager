@@ -1,0 +1,5 @@
+{
+  "name": "Smart Inventory Manager",
+  "description": "An intelligent inventory management application to track, add, and export items. It features bulk stock addition with conservation states, location management, and data export to Excel.",
+  "requestFramePermissions": []
+}
